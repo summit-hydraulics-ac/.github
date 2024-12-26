@@ -6,14 +6,6 @@ Welcome to the official GitHub organization for Summit Hydraulics! We are a lead
 
 At Summit Hydraulics, we specialize in the design, manufacturing, and distribution of hydraulic components and systems. Our mission is to provide innovative and reliable hydraulic solutions that meet the needs of our diverse clientele.
 
-## Our Projects
-
-We host a variety of projects on our GitHub organization, ranging from open-source libraries to internal tools that help us streamline our operations. Some of our key projects include:
-
-- **Hydraulic System Simulator**: A tool for simulating and testing hydraulic systems.
-- **Inventory Management System**: A comprehensive system for managing our product inventory.
-- **Customer Portal**: A web application that allows customers to track orders and access product documentation.
-
 ## Getting Involved
 
 We welcome contributions from the community! Whether you're a seasoned developer or just getting started, there are many ways to get involved:
